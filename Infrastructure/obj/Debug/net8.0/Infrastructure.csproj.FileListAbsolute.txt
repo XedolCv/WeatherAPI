@@ -1,0 +1,17 @@
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\bin\Debug\net8.0\Application.dll
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\bin\Debug\net8.0\Domain.dll
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\bin\Debug\net8.0\Application.pdb
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\bin\Debug\net8.0\Domain.pdb
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

@@ -1,0 +1,15 @@
+﻿services:
+  weatherapi:
+    image: weatherapi
+    ports:
+      - "8083:8080"
+    build:
+      context: .
+      dockerfile: WeatherAPI/Dockerfile
+  vueapp:
+    image: vueapp
+    ports:
+      - "8090:5173"
+    build:
+      context: .
+      dockerfile: vue-ts-app/Dockerfile

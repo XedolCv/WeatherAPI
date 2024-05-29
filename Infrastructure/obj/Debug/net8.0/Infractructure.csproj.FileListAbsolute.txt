@@ -1,0 +1,17 @@
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\bin\Debug\net8.0\Infractructure.deps.json
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\bin\Debug\net8.0\Infractructure.dll
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\bin\Debug\net8.0\Infractructure.pdb
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\bin\Debug\net8.0\Application.dll
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\bin\Debug\net8.0\Domain.dll
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\bin\Debug\net8.0\Application.pdb
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\bin\Debug\net8.0\Domain.pdb
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\obj\Debug\net8.0\Infractructure.csproj.AssemblyReference.cache
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\obj\Debug\net8.0\Infractructure.GeneratedMSBuildEditorConfig.editorconfig
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\obj\Debug\net8.0\Infractructure.AssemblyInfoInputs.cache
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\obj\Debug\net8.0\Infractructure.AssemblyInfo.cs
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\obj\Debug\net8.0\Infractructure.csproj.CoreCompileInputs.cache
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\obj\Debug\net8.0\Infractr.DAFFDE02.Up2Date
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\obj\Debug\net8.0\Infractructure.dll
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\obj\Debug\net8.0\refint\Infractructure.dll
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\obj\Debug\net8.0\Infractructure.pdb
+X:\Projects\Back\WeatherServiceApp\WeatherAPI\Infractructure\obj\Debug\net8.0\ref\Infractructure.dll
